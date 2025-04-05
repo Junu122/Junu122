@@ -1,16 +1,30 @@
-## Hi there 👋
+ Hi there 👋  I'm Junaid Shaikh
 
-<!--
-**Junu122/Junu122** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer specializing in MERN
+I'm passionate about building robust web applications using MongoDB, Express, React, and Node.js. I enjoy solving complex problems with clean, efficient code.
 
-Here are some ideas to get you started:
+💻 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Frontend: React, Redux, JavaScript (ES6+), HTML5, CSS3, Tailwind CSS
+Backend: Node.js, Express.js, REST APIs
+Database: MongoDB, Mongoose
+Tools: Git, GitHub, VS Code, Postman, Webpack
+Deployment: Heroku, Netlify, AWS, Docker
+
+🔭 I'm currently working on
+
+Expanding my full-stack portfolio with performant, responsive applications
+Deepening my knowledge of React hooks and context API
+Exploring Next.js and TypeScript
+
+🌱 I'm currently learning
+
+Advanced state management techniques
+Microservice architecture
+GraphQL
+
+📫 How to reach me
+
+Email - junaidshaikh9526@gmail.com
+
+
